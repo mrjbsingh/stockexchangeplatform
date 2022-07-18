@@ -1,0 +1,5 @@
+d1 s1 50/kg 5kg
+d1 s3 50/kg 15kg
+d2 s2 70/kg 10kg
+d3 s2 70/kg 5kg
+d3 s4 80/kg 20kg

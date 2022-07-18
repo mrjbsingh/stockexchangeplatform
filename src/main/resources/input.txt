@@ -1,0 +1,7 @@
+s1 10:10 potato 50/kg 5kg
+s2 10:11 tomato 70/kg 15kg
+d1 10:12 potato 50/kg 20kg
+s3 10:12 potato 50/kg 25kg
+s4 10:13 tomato 80/kg 30kg
+d2 10:14 tomato 70/kg 10kg
+d3 10:14 tomato 80/kg 25kg
